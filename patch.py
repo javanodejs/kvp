@@ -1,7 +1,5 @@
 # coding: utf8
-"""
-Author: macbinn@gmail.com
-"""
+
 from hashlib import md5
 import time
 import json
